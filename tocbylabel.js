@@ -1,6 +1,6 @@
 var maxposts = 100;
 
-function createtocbylabel(posts) {
+function tocbylabel(posts) {
 
   for (var i = 0; i < maxposts; i++) {
 
